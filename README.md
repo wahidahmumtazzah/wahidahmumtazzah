@@ -24,20 +24,18 @@ When I'm not coding, you'll find me exploring UI/UX design or collecting aesthet
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,figma,vscode,visualstudio,mysql,react,git,github&theme=dark"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahidahmumtazzah&show_icons=true&theme=rose_pine&hide_border=true&bg_color=FFF0F5"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidahmumtazzah&theme=rose_pine&hide_border=true&background=FFF0F5"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=wahidahmumtazzah&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=wahidahmumtazzah&layout=donut&theme=tokyonight&hide_border=true" width="38%"/>
 </p>
 
 ---
