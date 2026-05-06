@@ -50,13 +50,13 @@ When I'm not coding, you'll find me exploring UI/UX design or collecting aesthet
 
 ---
 
-<div align="center">
+## 🍵 Support Me
 
-*"Code is never finished. It only becomes slightly less terrible over time."* 💖
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FFC0CB&height=100&section=footer"/>
-
-</div>
+<p align="center">
+  <a href="https://buymeacoffee.com/wahidahmumtazzah">
+    <img src="https://img.shields.io/badge/🍵%20Treat%20me%20a%20matcha%20latte-ffffff?style=for-the-badge&logoColor=white&labelColor=4A7C59"/>
+  </a>
+</p>
 
 <!--
 **wahidahmumtazzah/wahidahmumtazzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
