@@ -34,8 +34,8 @@ When I'm not coding, you'll find me exploring UI/UX design or collecting aesthet
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=wahidahmumtazzah&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="50%"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=wahidahmumtazzah&layout=donut&theme=tokyonight&hide_border=true" width="38%"/>
+  <img src="https://github-readme-stats-five-delta-53.vercel.app/api?username=wahidahmumtazzah&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats-five-delta-53.vercel.app/api/top-langs/?username=wahidahmumtazzah&count_private=true&layout=donut&theme=tokyonight&hide_border=true" width="38%"/>
 </p>
 
 ---
