@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wahidahmumtazzah/wahidahmumtazzah/main/orange_modern_discord_profile_banner.jpg" width="100%" alt="Wawa Banner"/>
+  <img src="./orange_modern_discord_profile_banner.jpg.jpg" width="100%" alt="Wawa Banner"/>
 </div>
 
 ---
