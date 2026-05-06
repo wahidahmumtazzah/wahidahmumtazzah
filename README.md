@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Header Banner - Bisa pakai Canva/Figma buat bikin custom -->
-<img src="[capsule-render.vercel.app](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FFC0CB&height=200&section=header&text=🍓%20Wawa)'s%20Little%20World&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<div align="center">
+  <img src="./orange_modern_discord_profile_banner.jpg" width="100%" alt="Wawa Banner"/>
+</div>
 
 </div>
 
