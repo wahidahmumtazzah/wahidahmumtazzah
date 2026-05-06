@@ -58,6 +58,10 @@ When I'm not coding, you'll find me exploring UI/UX design or collecting aesthet
   </a>
 </p>
 
+<div align="center">
+  <img src="https://i.pinimg.com/736x/b7/7e/e2/b77ee2181628ed69f14bcc3cd1f5086c.jpg" width="100%"/>
+</div>
+
 <!--
 **wahidahmumtazzah/wahidahmumtazzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
