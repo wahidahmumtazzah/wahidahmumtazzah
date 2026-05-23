@@ -9,8 +9,9 @@
 <div>
 <img align="right" src="https://i.pinimg.com/originals/cf/d5/04/cfd5047e7452dcd3e05c07c3febc94e9.gif" width="200"/>
 
-### Hey there! I'm Wahidah Mumtazah / Wawa 👋
-I'm a **Software Engineering (RPL)** student with a love for clean UI and cozy code. By day, I'm learning web development. By night, I'm probably debugging CSS for 3 hours straight.
+### Hey there! I'm Wahidah Mumtazah / Wawaa 👋
+I'm a **Software Engineering (RPL)** student passionate about web development, UI/UX, and crafting interfaces that feel simple, clean, and alive.
+Probably redesigning something that already worked. ✨
 
 When I'm not coding, you'll find me exploring UI/UX design or collecting aesthetic Pinterest boards. ✨
 
